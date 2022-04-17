@@ -26,7 +26,3 @@ console.log(a/b);}
 divide(98, 20)
 
 ci
-
-
-
-
